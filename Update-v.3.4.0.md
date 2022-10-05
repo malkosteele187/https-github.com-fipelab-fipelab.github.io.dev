@@ -1,5 +1,3 @@
-# v.3.4.0 업데이트 내역
-
 ## [En]
 * Added : Screen ratio 16:9 / 21:19 / 1:1 / 4:3
 * Added : Display Cutout, Notch Area Playback Option(OS10 ~)
