@@ -1,3 +1,14 @@
+# v3.5.0
+## [En]
+* Added : 
+* Improved : 
+* Fixed : 
+
+## [Ko]
+* 추가 : 
+
+
+
 # v3.4.0
 ## [En]
 * Added : Screen ratio 16:9 / 21:19 / 1:1 / 4:3
