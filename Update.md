@@ -1,9 +1,20 @@
 # v3.5.0
 ## [En]
-* Added : Secret list
+* Added: Menu for a secret list(hide video according to OS11 storage policy)
+* Added: Subtitle sync
+* Added: Audio sync(one-touch auto-adjustng)
+* Added: Chromecast subtitle setting (background color, font color, opacity, style, size)
+* Added: Global Settings of Chromecast and Secret List
+* Fixed : Fix Minor bug
 
 ## [Ko]
-* 추가 : 시크릿 목록 기능
+* 추가 : 시크릿목록 메뉴(OS11 스토리지 정책에 맞춘 비디오 숨기기)
+* 추가 : 자막 싱크
+* 추가 : 오디오 싱크(원터치 자동 맞춤)
+* 추가 : 크롬캐스트 자막설정(배경색, 폰트색, 불투명도, 스타일, 크기)
+* 추가 : 크롬캐스트 및 시크릿목록 글로벌 설정
+* 수정 : 마이너 버그수정
+
 
 
 
