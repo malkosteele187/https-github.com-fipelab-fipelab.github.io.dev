@@ -1,11 +1,9 @@
 # v3.5.0
 ## [En]
-* Added : 
-* Improved : 
-* Fixed : 
+* Added : Secret list
 
 ## [Ko]
-* 추가 : 
+* 추가 : 시크릿 목록 기능
 
 
 
