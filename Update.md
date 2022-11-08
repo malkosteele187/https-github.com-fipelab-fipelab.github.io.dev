@@ -2,9 +2,9 @@
 ## [En]
 * Added: Menu for a secret list(hide video according to OS11 storage policy)
 * Added: Subtitle sync
-* Added: Audio sync(one-touch auto-adjustng)
-* Added: Chromecast subtitle setting (background color, font color, opacity, style, size)
-* Added: Global Settings of Chromecast and Secret List
+* Added: Audio sync(one-touch auto-adjusting)
+* Added: ChromeCast subtitle setting (background color, font color, opacity, style, size)
+* Added: Global Settings of ChromCast and Secret List
 * Fixed : Fix Minor bug
 
 ## [Ko]
