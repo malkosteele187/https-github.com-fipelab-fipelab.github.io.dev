@@ -1,12 +1,8 @@
 # v3.5.1
 ## [En]
-* Added: Menu for a secret list(hide video according to OS11 storage policy)
-* Added: Subtitle sync
 * Fixed : Fix Minor bug
 
 ## [Ko]
-* 추가 : 시크릿목록 메뉴(OS11 스토리지 정책에 맞춘 비디오 숨기기)
-* 추가 : 크롬캐스트 및 시크릿목록 글로벌 설정
 * 수정 : 마이너 버그수정
 
 
