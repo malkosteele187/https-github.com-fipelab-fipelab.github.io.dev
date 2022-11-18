@@ -1,9 +1,15 @@
 # v3.5.1
 ## [En]
-* Fixed : Fix Minor bug
+* Improved : Changed the behavior of the Network List back button (moved to previous folder)
+* Fixed : Search list bug
+* Fixed : Secret list sorting bug
+* Fixed : Minor bug
 
 ## [Ko]
-* 수정 : 마이너 버그수정
+* 개선 : 네트워크 목록 백버튼 동작변경(이전 폴더로 이동) 
+* 수정 : 검색 리스트 버그 
+* 수정 : 시크릿 목록 정렬 버그
+* 수정 : 마이너 버그 수정
 
 
 # v3.5.0
