@@ -1,3 +1,24 @@
+# v3.5.4
+## [En]
+* Fixed : TREND Search Bug
+
+## [Ko]
+* 수정 : 트랜드 검색 버그 수정
+
+# v3.5.3
+## [En]
+* Fixed : Minor bug related to Android 13
+
+## [Ko]
+* 수정 : Android 13 관련 대응
+
+# v3.5.2
+## [En]
+* Fixed : Minor bug
+
+## [Ko]
+* 수정 : 마이너 버그 
+
 # v3.5.1
 ## [En]
 * Improved : Changed the behavior of the Network List back button (moved to previous folder)
